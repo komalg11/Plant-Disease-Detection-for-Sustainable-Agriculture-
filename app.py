@@ -32,13 +32,13 @@ st.sidebar.title("Plant Disease Detection System for Sustainable Agriculture")
 app_mode = st.sidebar.selectbox("Select Page",["HOME","DISEASE RECOGNITION"])
 #app_mode = st.sidebar.selectbox("Select Page",["Home"," ","Disease Recognition"])
 
-# import Image from pillow to open images
-from PIL import Image
-img = Image.open("Diseases.png")
+# # import Image from pillow to open images
+# from PIL import Image
+# img = Image.open("Diseases.png")
 
-# display image using streamlit
+# # display image using streamlit
 
-st.image(img)
+# st.image(img)
 
 #Main Page
 if(app_mode=="HOME"):
