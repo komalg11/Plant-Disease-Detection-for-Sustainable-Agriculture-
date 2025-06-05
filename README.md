@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection System
 
-[![Hugging Face Spaces](https://img.shields.io/badge/Running%20on-Hugging%20Face-blue?logo=huggingface)]([https://huggingface.co/spaces/komalg11/Plant_Disease_Detection])
+[![Hugging Face Spaces](https://img.shields.io/badge/Running%20on-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/komalg11/Plant_Disease_Detection)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io)
 
 🚀 A machine learning web app that detects plant diseases from leaf images using a TFLite model and Streamlit — hosted on Hugging Face Spaces.
@@ -35,7 +35,7 @@ Examples include:
 
 ## 🚀 Run Locally
 
-#bash
+```bash
 git clone https://github.com/yourusername/Plant_Disease_Detection
 cd Plant_Disease_Detection
 
