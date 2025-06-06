@@ -1,5 +1,6 @@
 # 🌿 Plant Disease Detection System
 🔗 **Live Deployment**: (https://huggingface.co/spaces/komalg11/Plant_Disease_Detection)
+
 [![Hugging Face Spaces](https://img.shields.io/badge/Running%20on-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/komalg11/Plant_Disease_Detection)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io)
 
